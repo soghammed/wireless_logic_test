@@ -1,4 +1,4 @@
-## Setup
+# Run Console Application
 - ```composer install```
 - ```php index.php```
 
