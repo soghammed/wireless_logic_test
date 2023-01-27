@@ -1,0 +1,13 @@
+{
+    "name": "mh/wlogic",
+    "description": "test",
+    "autoload": {
+        "psr-4": {
+            "Mh\\Wlogic\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.5",
+        "phpunit/phpunit": "^9.5"
+    }
+}
